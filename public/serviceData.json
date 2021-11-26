@@ -1,0 +1,74 @@
+{
+  "serviceData": [
+    {
+      "name": "Teeth Cleaning",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "20$",
+      "rating": "5",
+      "id": 1
+    },
+    {
+      "name": "Fillings and Restorations.",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "40$",
+      "rating": "4.5",
+      "id": 2
+    },
+    {
+      "name": "Teeth Whitening ",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "10$",
+      "rating": "5",
+      "id": 3
+    },
+    {
+      "name": "Extractions",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "25$",
+      "rating": "5",
+      "id": 4
+    },
+    {
+      "name": "Veneers",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "22$",
+      "rating": "3.7",
+      "id": 5
+    },
+    {
+      "name": "Fillings",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "25$",
+      "rating": "4",
+      "id": 6
+    },
+    {
+      "name": "Root Canal",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "100$",
+      "rating": "5",
+      "id": 7
+    },
+    {
+      "name": "Braces/Invisalign",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "22$",
+      "rating": "4.5",
+      "id": 8
+    },
+    {
+      "name": "Bonding",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "23$",
+      "rating": "5",
+      "id": 9
+    },
+    {
+      "name": "Dentures",
+      "img": "https://image.freepik.com/free-photo/close-up-brunette-half-naked-woman-with-perfect-skin-nude-make-up-hold-brush-isolated-beige-pastel-wall_365776-580.jpg",
+      "price": "25$",
+      "rating": "5",
+      "id": 10
+    }
+  ]
+}
